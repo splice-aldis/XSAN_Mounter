@@ -1,0 +1,6 @@
+total 20
+-rw-rw-r-- 1 abetker abetker    0 Nov 26 11:19 blah.txt
+-rw-rw-r-- 1 abetker abetker   73 Nov 20 21:16 cachefile
+-rw-rw-r-- 1 abetker abetker 2080 Nov 23 19:57 main.py
+-rw-rw-r-- 1 abetker abetker  653 Nov 24 21:21 temp.py
+-rw-rw-r-- 1 abetker abetker  113 Nov 19 18:43 xsanmounterapp.kv
